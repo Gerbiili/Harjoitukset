@@ -6,9 +6,13 @@ public class App {
     // }
 
     // While
-    int counter = 0;
-    while (counter < 5) {
-        System.out.println(counter+1);
-    }
+    // int counter = 0;
+    // while (counter < 5) {
+    //     System.out.println(counter+1);
+    //     counter++;
+    // }
+
+    //Do while
+    
     }
 }
