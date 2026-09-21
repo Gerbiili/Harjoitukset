@@ -28,10 +28,13 @@ public class App {
         // System .out.println("Thanks for playing!");
 
         //Break the loop
-        for (int counter = 0 ; counter < 100 ; counter++)
+        for (int i = 0 ; i < 100 ; i++)
         {
-            System.out.println(counter+1);
-            
+            if (i == 50) {
+                break;
+            }
+            System.out.println(i+1);
+
         }
 
     }
